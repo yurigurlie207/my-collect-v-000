@@ -2,7 +2,7 @@ def my_collect(myList)
   collection = []
   i=0
   while i < myList.lenght
-    collection < yield(myList[i])
+    collection << yield(myList[i])
     i +=1
   end
   collection
