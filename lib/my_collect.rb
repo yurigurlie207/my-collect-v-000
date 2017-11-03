@@ -1,6 +1,7 @@
-def my_collect(collection)
-  
+def my_collect(myList)
+  collection = []
+  i=0
+  while i <  
 end
 
-my_collect(collect) { |name| name.split(" ").first }
-
+my_collect(myList) { |name| name.split(" ").first }
