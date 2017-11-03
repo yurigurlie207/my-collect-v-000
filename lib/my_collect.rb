@@ -8,4 +8,4 @@ def my_collect(myList)
   collection
 end
 
-my_collect(myList) { |name| name.split(" ").first }
+# my_collect(myList) { |name| name.split(" ").first }
